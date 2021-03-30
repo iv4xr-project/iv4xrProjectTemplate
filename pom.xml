@@ -35,9 +35,9 @@
      <!-- dependency on iv4XR aka aplib.
           Adjust the version that you want to use... -->
      <dependency>
-        <groupId>nl.uu.cs.aplib</groupId>
+        <groupId>com.github.iv4xr-project</groupId>
         <artifactId>aplib</artifactId>
-        <version>1.2.0</version>
+        <version>[1.2.1,)</version>
      </dependency>
   </dependencies>
 
